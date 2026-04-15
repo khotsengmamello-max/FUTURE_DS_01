@@ -83,15 +83,18 @@ The dataset was cleaned and prepared using the following steps:
 
 ---
 
-## 📊 Dashboard Preview
+## 📸 Power BI Dashboard Preview
 
-*(Add screenshots here for higher marks)*
+![Power BI Dashboard](powerbi_dashboard.png)
 
-Example:
-
-```markdown
-![Dashboard Screenshot](<img width="1419" height="798" alt="image" src="https://github.com/user-attachments/assets/24cccd79-f7d4-4148-843f-d18cb4584be7" />
-)
+**Features shown:**
+- Count of Profit by Order Date (line chart)
+- Count of Sales by Region (bar chart)
+- Count of Sales by Product Name (bar chart)
+- Count of Profit by Category (bar chart)
+- Count of Sales by Category (pie chart)
+- Count of Profit by Year (line chart)
+- Region and Category slicers for filtering
 ```
 
 ---
