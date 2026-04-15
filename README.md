@@ -144,7 +144,7 @@ The dataset was cleaned and prepared using the following steps:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noliyolo%20Khotseng-blue?style=for-the-badge\&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/noliyolo-khotseng-318873233/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noliyolo%20Khotseng-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noliyolo-khotseng-318873233/)
 
 ---
 
