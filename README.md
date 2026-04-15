@@ -85,7 +85,7 @@ The dataset was cleaned and prepared using the following steps:
 
 ## 📸 Power BI Dashboard Preview
 
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.png.png)
 
 **Features shown:**
 - Count of Profit by Order Date (line chart)
